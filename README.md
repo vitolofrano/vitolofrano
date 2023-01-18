@@ -15,5 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+	<table>
+		<tr>
+			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
+			<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/vlofrano?1337Badge=off&UM6P=off" alt="vlofrano's 42 stats" /></a>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<b>My GitHub stats</b>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/vitolofrano">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/vitolofrano?cardType=level&theme=tokyonight" width="397" height="200">
+				</a> 
+			</td>
+			<td>
+				<a href="https://github.com/vitolofrano?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitolofrano&layout=compact&theme=tokyonight" width="380" height="200">
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
-<center><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/vlofrano?1337Badge=off&UM6P=off" alt="vlofrano's 42 stats" /></a></center>
+![Profile views counter](https://komarev.com/ghpvc/?username=vitolofrano&&style=flat-square)
